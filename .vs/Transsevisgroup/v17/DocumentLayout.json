@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Transsevisgroup||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\transsevisgroup\\usersadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|solutionrelative:transsevisgroup\\usersadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\transsevisgroup\\servicesadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|solutionrelative:transsevisgroup\\servicesadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\transsevisgroup\\serviceeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|solutionrelative:transsevisgroup\\serviceeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\transsevisgroup\\servicebookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|solutionrelative:transsevisgroup\\servicebookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\transsevisgroup\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|solutionrelative:transsevisgroup\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\transsevisgroup\\priceviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|solutionrelative:transsevisgroup\\priceviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\transsevisgroup\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|solutionrelative:transsevisgroup\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\transsevisgroup\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|solutionrelative:transsevisgroup\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\transsevisgroup\\locationsadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|solutionrelative:transsevisgroup\\locationsadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\transsevisgroup\\bookingsadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|solutionrelative:transsevisgroup\\bookingsadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\transsevisgroup\\adminpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|solutionrelative:transsevisgroup\\adminpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\transsevisgroup\\aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|solutionrelative:transsevisgroup\\aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\transsevisgroup\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|solutionrelative:transsevisgroup\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\transsevisgroup\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|solutionrelative:transsevisgroup\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\transsevisgroup\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|solutionrelative:transsevisgroup\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\transsevisgroup\\servicesadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|solutionrelative:transsevisgroup\\servicesadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\transsevisgroup\\serviceeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|solutionrelative:transsevisgroup\\serviceeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\transsevisgroup\\usersadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|solutionrelative:transsevisgroup\\usersadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\transsevisgroup\\priceviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|solutionrelative:transsevisgroup\\priceviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\transsevisgroup\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|solutionrelative:transsevisgroup\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\transsevisgroup\\bookingsadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|solutionrelative:transsevisgroup\\bookingsadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\transsevisgroup\\locationsadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|solutionrelative:transsevisgroup\\locationsadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\transsevisgroup\\servicebookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|solutionrelative:transsevisgroup\\servicebookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\transsevisgroup\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|solutionrelative:transsevisgroup\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717B4A2B-CC9D-47BC-93A8-1061C17F6C4C}|Transsevisgroup\\Transsevisgroup.csproj|c:\\users\\3ton\\desktop\\transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\transsevisgroup\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Transsevisgroup",
+              "DocumentMoniker": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\Transsevisgroup\\Transsevisgroup.csproj",
+              "RelativeDocumentMoniker": "Transsevisgroup\\Transsevisgroup.csproj",
+              "ToolTip": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\Transsevisgroup\\Transsevisgroup.csproj",
+              "RelativeToolTip": "Transsevisgroup\\Transsevisgroup.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-07T01:42:09.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\Transsevisgroup\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "Transsevisgroup\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\3ton\\Desktop\\Transervisgroup-main\\Transsevisgroup\\RegisterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\Transervisgroup-main\\Transsevisgroup\\RegisterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T01:25:00.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceBookingForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\Transsevisgroup\\ServiceBookingForm.cs",
+              "RelativeDocumentMoniker": "Transsevisgroup\\ServiceBookingForm.cs",
+              "ToolTip": "C:\\Users\\3ton\\Desktop\\Transervisgroup-main\\Transsevisgroup\\ServiceBookingForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\Transervisgroup-main\\Transsevisgroup\\ServiceBookingForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T01:04:01.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\Transsevisgroup\\ServiceEditForm.cs",
+              "RelativeDocumentMoniker": "Transsevisgroup\\ServiceEditForm.cs",
+              "ToolTip": "C:\\Users\\3ton\\Desktop\\Transervisgroup-main\\Transsevisgroup\\ServiceEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\Transervisgroup-main\\Transsevisgroup\\ServiceEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T01:14:20.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServicesAdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\Transsevisgroup\\ServicesAdminForm.cs",
+              "RelativeDocumentMoniker": "Transsevisgroup\\ServicesAdminForm.cs",
+              "ToolTip": "C:\\Users\\3ton\\Desktop\\Transervisgroup-main\\Transsevisgroup\\ServicesAdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\Transervisgroup-main\\Transsevisgroup\\ServicesAdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T01:35:27.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersAdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\Transsevisgroup\\UsersAdminForm.cs",
+              "RelativeDocumentMoniker": "Transsevisgroup\\UsersAdminForm.cs",
+              "ToolTip": "C:\\Users\\3ton\\Desktop\\Transervisgroup-main\\Transsevisgroup\\UsersAdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\Transervisgroup-main\\Transsevisgroup\\UsersAdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T01:33:20.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PriceViewerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\Transsevisgroup\\PriceViewerForm.cs",
+              "RelativeDocumentMoniker": "Transsevisgroup\\PriceViewerForm.cs",
+              "ToolTip": "C:\\Users\\3ton\\Desktop\\Transervisgroup-main\\Transsevisgroup\\PriceViewerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\Transervisgroup-main\\Transsevisgroup\\PriceViewerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T01:29:39.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\Transsevisgroup\\MainForm.cs",
+              "RelativeDocumentMoniker": "Transsevisgroup\\MainForm.cs",
+              "ToolTip": "C:\\Users\\3ton\\Desktop\\Transervisgroup-main\\Transsevisgroup\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\Transervisgroup-main\\Transsevisgroup\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T01:37:04.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\Transsevisgroup\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Transsevisgroup\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\3ton\\Desktop\\Transervisgroup-main\\Transsevisgroup\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\Transervisgroup-main\\Transsevisgroup\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T00:24:24.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LocationsAdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\Transsevisgroup\\LocationsAdminForm.cs",
+              "RelativeDocumentMoniker": "Transsevisgroup\\LocationsAdminForm.cs",
+              "ToolTip": "C:\\Users\\3ton\\Desktop\\Transervisgroup-main\\Transsevisgroup\\LocationsAdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\Transervisgroup-main\\Transsevisgroup\\LocationsAdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T01:19:59.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookingsAdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\Transsevisgroup\\BookingsAdminForm.cs",
+              "RelativeDocumentMoniker": "Transsevisgroup\\BookingsAdminForm.cs",
+              "ToolTip": "C:\\Users\\3ton\\Desktop\\Transervisgroup-main\\Transsevisgroup\\BookingsAdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\Transervisgroup-main\\Transsevisgroup\\BookingsAdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T01:40:07.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminPanelForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\Transsevisgroup\\AdminPanelForm.cs",
+              "RelativeDocumentMoniker": "Transsevisgroup\\AdminPanelForm.cs",
+              "ToolTip": "C:\\Users\\3ton\\Desktop\\Transervisgroup-main\\Transsevisgroup\\AdminPanelForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\Transervisgroup-main\\Transsevisgroup\\AdminPanelForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T01:39:33.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AboutUs.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\Transsevisgroup\\AboutUs.cs",
+              "RelativeDocumentMoniker": "Transsevisgroup\\AboutUs.cs",
+              "ToolTip": "C:\\Users\\3ton\\Desktop\\Transervisgroup-main\\Transsevisgroup\\AboutUs.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\Transervisgroup-main\\Transsevisgroup\\AboutUs.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T01:39:24.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AboutForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\Transsevisgroup\\AboutForm.cs",
+              "RelativeDocumentMoniker": "Transsevisgroup\\AboutForm.cs",
+              "ToolTip": "C:\\Users\\3ton\\Desktop\\Transervisgroup-main\\Transsevisgroup\\AboutForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\Transervisgroup-main\\Transsevisgroup\\AboutForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T01:38:53.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\Transsevisgroup\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "Transsevisgroup\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\Transsevisgroup\\RegisterForm.cs",
+              "RelativeToolTip": "Transsevisgroup\\RegisterForm.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAqwEUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T01:25:01.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PriceViewerForm.cs",
+              "DocumentMoniker": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\Transsevisgroup\\PriceViewerForm.cs",
+              "RelativeDocumentMoniker": "Transsevisgroup\\PriceViewerForm.cs",
+              "ToolTip": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\Transsevisgroup\\PriceViewerForm.cs",
+              "RelativeToolTip": "Transsevisgroup\\PriceViewerForm.cs",
+              "ViewState": "AQIAALIAAAAAAAAAAAAcwM4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T01:09:06.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\Transsevisgroup\\MainForm.cs",
+              "RelativeDocumentMoniker": "Transsevisgroup\\MainForm.cs",
+              "ToolTip": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\Transsevisgroup\\MainForm.cs",
+              "RelativeToolTip": "Transsevisgroup\\MainForm.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAwwIsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T00:24:01.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\Transsevisgroup\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Transsevisgroup\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\Transsevisgroup\\LoginForm.cs",
+              "RelativeToolTip": "Transsevisgroup\\LoginForm.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T00:24:25.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServicesAdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\Transsevisgroup\\ServicesAdminForm.cs",
+              "RelativeDocumentMoniker": "Transsevisgroup\\ServicesAdminForm.cs",
+              "ToolTip": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\Transsevisgroup\\ServicesAdminForm.cs",
+              "RelativeToolTip": "Transsevisgroup\\ServicesAdminForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T01:11:29.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UsersAdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\Transsevisgroup\\UsersAdminForm.cs",
+              "RelativeDocumentMoniker": "Transsevisgroup\\UsersAdminForm.cs",
+              "ToolTip": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\Transsevisgroup\\UsersAdminForm.cs",
+              "RelativeToolTip": "Transsevisgroup\\UsersAdminForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T01:33:21.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ServiceEditForm.cs",
+              "DocumentMoniker": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\Transsevisgroup\\ServiceEditForm.cs",
+              "RelativeDocumentMoniker": "Transsevisgroup\\ServiceEditForm.cs",
+              "ToolTip": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\Transsevisgroup\\ServiceEditForm.cs",
+              "RelativeToolTip": "Transsevisgroup\\ServiceEditForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T00:58:30.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ServiceBookingForm.cs",
+              "DocumentMoniker": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\Transsevisgroup\\ServiceBookingForm.cs",
+              "RelativeDocumentMoniker": "Transsevisgroup\\ServiceBookingForm.cs",
+              "ToolTip": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\Transsevisgroup\\ServiceBookingForm.cs",
+              "RelativeToolTip": "Transsevisgroup\\ServiceBookingForm.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAcwI0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T01:03:20.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LocationsAdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\Transsevisgroup\\LocationsAdminForm.cs",
+              "RelativeDocumentMoniker": "Transsevisgroup\\LocationsAdminForm.cs",
+              "ToolTip": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\Transsevisgroup\\LocationsAdminForm.cs",
+              "RelativeToolTip": "Transsevisgroup\\LocationsAdminForm.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAADwv1oAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T00:57:49.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BookingsAdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\Transsevisgroup\\BookingsAdminForm.cs",
+              "RelativeDocumentMoniker": "Transsevisgroup\\BookingsAdminForm.cs",
+              "ToolTip": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\Transsevisgroup\\BookingsAdminForm.cs",
+              "RelativeToolTip": "Transsevisgroup\\BookingsAdminForm.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAswH4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T00:54:54.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\Transsevisgroup\\Database.cs",
+              "RelativeDocumentMoniker": "Transsevisgroup\\Database.cs",
+              "ToolTip": "C:\\Users\\3ton\\Desktop\\Transervisgroup-13a259d8630e0ef634b6dde7ffef0fb2b81f7118\\Transsevisgroup\\Database.cs",
+              "RelativeToolTip": "Transsevisgroup\\Database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T00:18:52.651Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
