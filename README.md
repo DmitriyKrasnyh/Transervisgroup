@@ -21,7 +21,7 @@
 
 ## 🛠️ Стек технологий
 
-- Язык: C#
+- Язык: С#
 - UI: Windows Forms (WinForms)
 - IDE: Visual Studio 2022
 - База данных: **SQLite**
